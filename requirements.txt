@@ -3,5 +3,6 @@ uvicorn
 tensorflow
 numpy
 pillow
-streamlit
-requests
+python-multipart
+gdown
+
